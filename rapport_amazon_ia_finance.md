@@ -1,6 +1,6 @@
 # chemlal Basma
 22006630
-![basma](https://github.com/user-attachments/assets/f91ba6db-f165-4de2-b145-c0c8c31b26bf)
+
 
 # kawtar Frimi 
 22005989
