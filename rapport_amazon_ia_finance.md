@@ -1,3 +1,13 @@
+# chemlal Basma
+22006630
+![basma](https://github.com/user-attachments/assets/f91ba6db-f165-4de2-b145-c0c8c31b26bf)
+
+# kawtar Frimi 
+22005989
+![kawtar](https://github.com/user-attachments/assets/601973ea-21f0-41be-b830-6b63c693b1a1)
+
+
+
 # 📊 Rapport : Comment Amazon Exploite l'IA dans le Domaine Financier
 
 > **Section 1.2.6 — Cas Réel d'Entreprise : Amazon**
